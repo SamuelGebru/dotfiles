@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = samueltgebru@gmail.com
+	name = Samuel Gebru
